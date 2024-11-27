@@ -1,16 +1,13 @@
 # Meu Portfólio
 
-Este é meu portfólio pessoal, criado com HTML, CSS e JavaScript.
+segue meu portifolio feito com HTML, CSS e JavaScript.
+Estrutura:
 
-## Estrutura
+- `index.html`: inicio ( informações gerais.)
+- 
+- `about.html`: sobre Nathália.
+- 
+- `styles.css`: sobre o estilo do meu site.
+- 
+- `script.js`: interações do site.
 
-- `index.html`: Página inicial com informações gerais.
-- `about.html`: Página sobre mim.
-- `styles.css`: Estilos do site.
-- `script.js`: Funcionalidades interativas.
-
-## Funcionalidades
-
-- Layout estruturado com CSS Grid e Flexbox.
-- Navegação simples e intuitiva.
-- Alerta inicial usando JavaScript.
